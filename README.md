@@ -6,4 +6,4 @@
 - 🔐: Privacy on Internet 
 - ⏳: Scientific Hive 
 
-The construction of my profile is inspered by @andyschauer's profile
+The construction of my profile is inspired by @andyschauer's profile
